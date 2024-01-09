@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE_Projects/Pillar/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UE_Projects/Pillar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TG/VB1JEDWN8BUD6UHDPBPU9I.uasset",
+				"E:/UE_Projects/Pillar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KM/5Q4ELFZXYIGWO0M6JX2Z6N.uasset",
+				"E:/UE_Projects/Pillar/Content/Blueprints/Follower.uasset"
+			]
+		}
+	]
+}
